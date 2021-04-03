@@ -1,2 +1,2 @@
 # TheGame
-A Python Game, made when i was bored lol
+Sebuah Terminal Python Game, yang dibuat KARENA GABUT HAUHAUAHAUAHAUAU
